@@ -5,14 +5,6 @@
    "author":"Ishiyumi",
    "cover":"https://i.imgur.com/0MwxVHP.jpg",
    "chapters":{
-      "15":{
-         "title":"Chapter 15",
-         "volume":"-",
-         "groups":{
-            "Wosseldorf Scans":"/proxy/api/imgur/chapter/NVwKWbw/"
-         },
-         "last_updated":"1620387809"
-      },
       "13":{
          "title":"Chapter 13",
          "volume":"-",
@@ -20,6 +12,78 @@
             "Wosseldorf Scans":"/proxy/api/imgur/chapter/robJCks/"
          },
          "last_updated":"1620390351"
+      },
+      "14":{
+         "title":"Chapter 14",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/Ng8mZVI/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.1":{
+         "title":"Chapter 14.1 - A story about a mangaka",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/3uxnUqc/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.2":{
+         "title":"Chapter 14.2 - Readers’ reaction",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/sYg5QjG/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.3":{
+         "title":"Chapter 14.3 - A story about a droid that can draw pictures",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/LV0XlS7/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.4":{
+         "title":"Chapter 14.4 - First two person mission with the sis",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/QTKGywP/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.5":{
+         "title":"Chapter 14.5 - A story about an assistant",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/LIuEvwt/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.6":{
+         "title":"Chapter 14.6 - The assistant is willing to undress for Sensei",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/HLufz77/"
+         },
+         "last_updated":"1620390351"
+      },
+      "14.7":{
+         "title":"Chapter 14.7 - Mother droid information",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/QESedxJ/"
+         },
+         "last_updated":"1620390351"
+      },
+      "15":{
+         "title":"Chapter 15",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/NVwKWbw/"
+         },
+         "last_updated":"1620387809"
       }
    }
 }
