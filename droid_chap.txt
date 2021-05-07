@@ -3,7 +3,7 @@
    "description":"A droid picked up an abandoned child and decided to raise it.",
    "artist":"Ishiyumi",
    "author":"Ishiyumi",
-   "cover":"https://pbs.twimg.com/media/EGgj-soVAAAMixi?format=jpg&name=small",
+   "cover":"https://i.imgur.com/0MwxVHP.jpg",
    "chapters":{
       "15":{
          "title":"Chapter 15",
