@@ -12,6 +12,14 @@
             "Wosseldorf Scans":"/proxy/api/imgur/chapter/NVwKWbw/"
          },
          "last_updated":"1620387809"
+      },
+      "13":{
+         "title":"Chapter 13",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/robJCks/"
+         },
+         "last_updated":"1620390351"
       }
    }
 }
