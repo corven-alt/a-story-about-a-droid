@@ -1,17 +1,17 @@
 {
-  "title": "A story about a droid",
-  "description": "A droid picked up an abandoned child and decided to raise it.",
-  "artist": "Ishiyumi",
-  "author": "Ishiyumi",
-  "cover": "https://pbs.twimg.com/media/EGgj-soVAAAMixi?format=jpg&name=small",
-  "chapters": {
-    "15": {
-      "title": "Chapter 15",
-      "volume": "-",
-      "groups": {
-        "Wosseldorf Scans": "/proxy/api/imgur/chapter/NVwKWbw/"
-      },
-      "last_updated": "1620387809"
-    },
-  }
+   "title":"A story about a droid",
+   "description":"A droid picked up an abandoned child and decided to raise it.",
+   "artist":"Ishiyumi",
+   "author":"Ishiyumi",
+   "cover":"https://pbs.twimg.com/media/EGgj-soVAAAMixi?format=jpg&name=small",
+   "chapters":{
+      "15":{
+         "title":"Chapter 15",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/NVwKWbw/"
+         },
+         "last_updated":"1620387809"
+      }
+   }
 }
