@@ -84,6 +84,14 @@
             "Wosseldorf Scans":"/proxy/api/imgur/chapter/NVwKWbw/"
          },
          "last_updated":"1620387809"
+      },
+      "15.1":{
+         "title":"Chapter 15.1 - A wraith's temptation",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/l4OEEHO/"
+         },
+         "last_updated":"1620464824"
       }
    }
 }
