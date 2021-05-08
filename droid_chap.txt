@@ -41,7 +41,7 @@
          "title":"Chapter 14.3 - A story about a droid that can draw pictures",
          "volume":"-",
          "groups":{
-            "Wosseldorf Scans":"/proxy/api/imgur/chapter/LV0XlS7/"
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/gcV2y4Z/"
          },
          "last_updated":"1620390351"
       },
