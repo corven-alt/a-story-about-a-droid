@@ -92,6 +92,22 @@
             "Wosseldorf Scans":"/proxy/api/imgur/chapter/l4OEEHO/"
          },
          "last_updated":"1620464824"
+      },
+      "15.5":{
+         "title":"Chapter 15.5 - 'Chapter 0'",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/K0ZMqzu/"
+         },
+         "last_updated":"1620544155"
+      },
+      "15.6":{
+         "title":"Chapter 15.6 - Connection",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/k4f1VU6/"
+         },
+         "last_updated":"1620544155"
       }
    }
 }
