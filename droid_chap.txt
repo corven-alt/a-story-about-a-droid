@@ -140,6 +140,14 @@
             "Wosseldorf Scans":"/proxy/api/imgur/chapter/VM8rQA6/"
          },
          "last_updated":"1620718387"
+      },
+      "18":{
+         "title":"Chapter 18",
+         "volume":"-",
+         "groups":{
+            "Wosseldorf Scans":"/proxy/api/imgur/chapter/taUquHL/"
+         },
+         "last_updated":"1620818427"
       }
    }
 }
